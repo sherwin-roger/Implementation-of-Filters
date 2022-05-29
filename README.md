@@ -35,8 +35,8 @@ Run the program by using the syntax , and print the output.
 
 ## Program:
 ```python
-# Developed By   : R ARUNRAJ
-# Register Number: 212220230004
+# Developed By   : SHERWIN ROGER R.D
+# Register Number: 212220230046
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
